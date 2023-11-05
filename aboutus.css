@@ -1,0 +1,50 @@
+
+body {
+
+        background-color: #BFBDBC; /* Replace with the color you prefer */
+        margin: 0;
+        padding: 0;
+    
+    
+}
+
+h1 {
+
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
+h2 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+p {
+    text-align: center;
+    color: #000000;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    background-color: #3498db; /* Button background color */
+    color: #fff; /* Button text color */
+    border: 2px solid #3498db; /* Button border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #2980b9; /* Button background color on hover */
+    border-color: #2980b9; /* Button border color on hover */
+    color: #fff; /* Button text color on hover */
+}

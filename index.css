@@ -1,0 +1,111 @@
+
+
+body{
+        background-color: #BFBDBC; /* Replace with the color you prefer */
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+}
+
+
+
+h2 {
+    font-size: 20px; /* Adjust the font size */
+    color: #000000; /* Adjust the text color */
+    font-family: 'Arial', sans-serif; /* Change the font family as needed */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0); 
+    margin-bottom: 20px; /* Add margin at the bottom */
+    margin-top: 270px;
+    margin-left: 69px;
+}
+
+
+
+
+.image-1{
+
+    width: 300px;
+    height: 300px;
+}
+
+.logo-container {
+    text-align: center; /* Center the logo horizontally */
+    margin-top: 20px; /* Adjust the top margin to center vertically */
+    margin-bottom: -240px;
+}
+
+.logo-container img {
+    width: 334px; /* Adjust the width of your logo */
+    height: auto; /* Maintain the aspect ratio */
+}
+
+
+.image-2{
+
+    width: 300px;
+    height: 280px;
+
+}
+
+.logo-container2 {
+    position: relative;
+}
+
+.logo-container2 img {
+    width: 280px; /* Adjust the width of your logo */
+    height: auto; /* Maintain the aspect ratio */
+    position: absolute;
+    top: 250px; /* Adjust the top position */
+    left: 1000px; /* Adjust the left position */
+}
+
+
+
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    background-color: #3498db; /* Button background color */
+    color: #fff; /* Button text color */
+    border: 2px solid #3498db; /* Button border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #2980b9; /* Button background color on hover */
+    border-color: #2980b9; /* Button border color on hover */
+    color: #fff; /* Button text color on hover */
+}
+
+
+.button-container {
+    position: relative;
+
+}
+
+
+.button-container{
+
+/* Move the buttons to a new location */
+    position: absolute;
+    top: 169px; /* Adjust the top position */
+    left: 960px; /* Adjust the left position */
+}
+
+.button-container0{
+
+    position: absolute;
+    top: 600px; /* Adjust the top position */
+    left: 345px; /* Adjust the left position */
+    
+
+}
+
+
+

@@ -1,0 +1,82 @@
+body{
+
+
+    background-color: #BFBDBC; /* Replace with the color you prefer */
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+
+
+    font-size: 50px; /* Adjust the font size */
+    color: #000000; /* Adjust the text color */
+    font-family: 'Arial', sans-serif; /* Change the font family as needed */
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0); 
+    margin-bottom: 20px; /* Add margin at the bottom */
+
+
+}
+
+.slider-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Style the label for the slider */
+label {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+/* Style the slider */
+#slider {
+    width: 80%; /* Set the width of the slider */
+    margin-bottom: 20px;
+}
+
+/* Style the displayed value paragraph */
+#slider-value {
+    font-size: 16px;
+    color: #333;
+}
+
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    background-color: #3498db; /* Button background color */
+    color: #fff; /* Button text color */
+    border: 2px solid #3498db; /* Button border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left: 650px;
+}
+
+.input-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    resize: vertical; /* Allow vertical resizing */
+}

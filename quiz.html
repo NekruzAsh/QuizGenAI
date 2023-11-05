@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This is the quiz gen</title>
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="quiz.css">
+
+</head>
+<body>
+
+
+    <h1>Quiz Generator</h1>
+
+    
+    <div class="slider-container">
+        <label for="slider">Select a value:</label>
+        <input type="range" id="slider" min="1" max="10" value="5" step="1">
+        <p id="slider-value">Selected value: 5</p>
+    </div>
+
+    <div class="input-container">
+        <label for="user-input">Enter text (max 2000 characters):</label>
+        <textarea id="user-input" maxlength="2000" rows="10"></textarea>
+    </div>
+
+    <button id="generate-quiz" class = "button">Generate Quiz</button>
+    <div id="quiz-display" style = "white-space: pre-line;"></div>
+   
+
+
+
+</body>
+</html>
