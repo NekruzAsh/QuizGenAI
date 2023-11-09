@@ -90,13 +90,6 @@ h2 {
 }
 
 
-.button-container{
-
-/* Move the buttons to a new location */
-    position: absolute;
-    top: 169px; /* Adjust the top position */
-    left: 960px; /* Adjust the left position */
-}
 
 .button-container0{
 
