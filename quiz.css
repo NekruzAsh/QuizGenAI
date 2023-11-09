@@ -80,3 +80,14 @@ textarea {
     box-sizing: border-box;
     resize: vertical; /* Allow vertical resizing */
 }
+
+#quiz-display {
+    text-align: center;
+    font-size: 1.2em;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
