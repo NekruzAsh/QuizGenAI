@@ -1,3 +1,4 @@
+# QuizGen
 ## Inspiration
 As students, we are always trying to find better ways to study and learn new studying techniques, so creating a tool that can help us do that and increase productivity in our everyday life was in our plan.
 
