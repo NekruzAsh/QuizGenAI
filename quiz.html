@@ -15,7 +15,7 @@
 
     
     <div class="slider-container">
-        <label for="slider"># of Questions: </label>
+        <label for="slider">Number of Questions: </label>
         <input type="range" id="slider" min="1" max="10" value="5" step="1">
         <p id="slider-value">Selected value: 5</p>
     </div>
@@ -24,8 +24,10 @@
         <label for="user-input">Enter text (max 2000 characters):</label>
         <textarea id="user-input" maxlength="2000" rows="10"></textarea>
     </div>
-
-    <button id="generate-quiz" class = "button">Generate Quiz</button>
+    
+    <div class = "button-container">
+        <button id="generate-quiz" class = "button">Generate Quiz</button>
+    </div>
     <div id="quiz-display" style = "white-space: pre-line;"></div>
    
 
