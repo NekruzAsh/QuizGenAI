@@ -3,7 +3,7 @@
 As students, we are always trying to find better ways to study and learn new studying techniques, so creating a tool that can help us do that and increase productivity in our everyday life was in our plan.
 
 ## What it does
-In our brainstorming sessions, we came up with this idea to make studying and learning easier. Our product is a website that allows the user to select a text and ask for quiz-generated questions based on the selected text.
+In our brainstorming sessions, we came up with this idea to make studying and learning easier. Our product is a website that allows the user to input text and ask for quiz-generated questions based on the inputted text.
 
 ## How we built it
 We built this project using Visual Studio Code, implementing JavaScript, Cohere AI Language Model API, HTML, and CSS.
