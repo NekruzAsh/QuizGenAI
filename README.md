@@ -9,7 +9,7 @@ In our brainstorming sessions, we came up with this idea to make studying and le
 We built this project using Visual Studio Code, implementing JavaScript, Cohere AI Language Model API, HTML, and CSS.
 
 ## Challenges we ran into
-We faced difficulties and challenges when we were trying to use the Chat GPT API and connecting our files in JavaScript because the keys in Chat GPT were limited.
+We faced difficulties and challenges when we were trying to use the Chat GPT API and connecting our files in JavaScript because the keys in Chat GPT were limited and half-way we couldn't test our code because of that. So we decided to use Cohere AI api that was being hosted on their website which saved us time because we were about to host our own LLM in the Google Cloud and then embedd it into our website.
 
 ## Accomplishments that we're proud of
 This whole experience is a great accomplishment for us. From the start of this hackathon, we decided to make a project that we lacked skills for. We did not know much about AI and APIs, most of us had fundamental knowledge of JavaScript. But towards the end of the hackathon, our team knew more about AI and a new programming language and how they can be implemented in everyday life.
