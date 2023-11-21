@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         const promptText = textInput;
         const numQuestions = numberOfQuestions;
-        const prompt = `With the following text: ${promptText}\nGenerate a quiz consisting of ${numQuestions}, multiple choice questions with a high difficulty level. Include an answer key at the end of the quiz.\n`;
+        const prompt = `With the following text: ${promptText}\nGenerate a quiz consisting of ${numQuestions}, multiple choice questions. Include an answer key at the end of the quiz.\n`;
 
         callApi(textInput, numberOfQuestions, prompt);
     });
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 var quizDisplay = document.querySelector('#quiz-display');
                 quizDisplay.innerHTML = data.generations[0].text;
 
-                // Apply styling to the generated elements
+                
                 var questionContainers = quizDisplay.querySelectorAll('.question-container');
                 questionContainers.forEach(function (container) {
                     container.style.border = '2px solid #000';
