@@ -17,10 +17,6 @@ h2 {
     margin-bottom: 30px;
 }
 
-.image-1, .image-2 {
-    width: 80%;
-    height: auto;
-}
 
 .logo-container {
     margin-top: 20px;
@@ -30,6 +26,7 @@ h2 {
 .logo-container img {
     width: 40%;
     height: auto;
+    position: relative;
 }
 
 .logo-container2 {
