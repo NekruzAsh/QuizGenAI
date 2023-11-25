@@ -29,19 +29,6 @@ h2 {
     position: relative;
 }
 
-.logo-container2 {
-    margin-bottom: 50px;
-    margin-top: 20px;
-}
-
-.logo-container2 img {
-    width: 13%;
-    height: auto;
-    position: absolute;
-    top: 50%;
-    left: 79%;
-    transform: translate(-50%, -50%);
-}
 
 .button-container {
     margin-top: 20px;
