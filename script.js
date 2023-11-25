@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         const promptText = textInput;
         const numQuestions = numberOfQuestions;
-        const prompt = `With the following text: ${promptText}\nGenerate a quiz consisting of ${numQuestions}, multiple choice questions. Include an answer key at the end of the quiz.\n`;
+        const prompt = `With the following text: ${promptText}\nGenerate a quiz consisting of ${numQuestions}, multiple choice questions. Include an answer key at the end of each question.\n`;
 
         callApi(textInput, numberOfQuestions, prompt);
     });
