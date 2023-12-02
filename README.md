@@ -15,7 +15,8 @@ We faced difficulties and challenges when we were trying to use the Chat GPT API
 This whole experience is a great accomplishment for us. From the start of this hackathon, we decided to make a project that we lacked skills for. We did not know much about AI and APIs, most of us had fundamental knowledge of JavaScript. But towards the end of the hackathon, our team knew more about AI and a new programming language and how they can be implemented in everyday life.
 
 ## What we learned
-At the start of this hackathon, we had an idea, but that idea was already taken and too broad. We decided to switch midway to see if we can come up with a different solution to a different category. We ended up switching our idea during midnight and once we were finished. We learned that the idea doesn't have to be broad but rather have a solution to a small but large problem. Also, it is never late to change and you should not regret it, as we did with our idea.
+We learned how the fetch function works when calling an API. Also, we learned that the AI API has its own special parameters and how they can be modified in order to recieve more creative generated text. The LLM also needed to be coded to read the inputted
+user text, we came up with a solution for that after many tests with our JavaScript code. We learned more about the syntax of the JavaScript language and its async functions.
 
 ## What's next for QuizGen
 Our next goal is to make our product more user-friendly, create a chrome extension, implement new and better AI models such as GPT-4, and add more features to it like user account creation and data tracking that can be stored in Cloud.
