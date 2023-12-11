@@ -1,0 +1,103 @@
+body{
+
+
+    background-color: #BFBDBC; 
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+
+
+    font-size: 50px; 
+    color: #000000; 
+    font-family: 'Arial', sans-serif; 
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0); 
+    margin-top: 5%;
+    margin-bottom: 5%; 
+
+
+}
+
+.slider-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+label {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+
+#slider {
+    width: 80%; 
+    margin-bottom: 20px;
+}
+
+
+#slider-value {
+    font-size: 16px;
+    color: #333;
+}
+
+.button-container {
+    text-align: center;
+}
+
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    background-color: #3498db; 
+    color: #fff; 
+    border: 2px solid #3498db; 
+    border-radius: 5px; 
+    cursor: pointer;
+    margin-top: 1.5%;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px rgba(52, 152, 219, 0.8);
+}
+
+.input-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    resize: vertical; 
+}
+
+#quiz-display {
+    text-align: center;
+    font-size: 1.2em;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
