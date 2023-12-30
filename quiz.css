@@ -1,10 +1,11 @@
 body{
-
-
-    background-color: #BFBDBC; 
-    margin: 0;
-    padding: 0;
-}
+    background: url('imgbg.jpg') no-repeat center center fixed;
+    min-height: 100vh;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 
 h1{
 
