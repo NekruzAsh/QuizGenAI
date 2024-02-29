@@ -1,5 +1,5 @@
 # QuizGen
-<a href="https://nekruzash.github.io/QuizGen/">Quizgen Website Live</a> try it out now!
+<a href="https://nekruzash.github.io/QuizGenAI/">Quizgen Website Live</a> try it out now!
 ## Inspiration
 As students, we are always trying to find better ways to study and learn new studying techniques, so creating a tool that can help us do that and increase productivity in our everyday life was in our plan.
 
